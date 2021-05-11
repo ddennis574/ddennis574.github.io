@@ -2,9 +2,6 @@
 <!DOCTYPE replace [<!ENTITY ent SYSTEM "file:///etc/shadow"> ]>
 <sitemapindex xmlns="http://www.google.com/schemas/sitemap/0.84">
 <sitemap>
-<loc>https://ddennis574.github.io/aa.html</loc>
-</sitemap>
-<sitemap>
-<loc>hhttps://ddennis574.github.io/aaa.html</loc>
+<loc>https://ddennis574.github.io/sitemap2.xml</loc>
 </sitemap>
 </sitemapindex>
